@@ -13,7 +13,7 @@
         <h3>Enter target mail</h3>
         <input type="email" name="mail" />
         <h3>Subject</h3>
-        <input type="email" name="Subject" />
+        <input type="text" name="Subject" />
         <h3>Mail Body</h3>
         <textarea name="Mbody" cols="40" rows="5"></textarea>
         <p></p>
